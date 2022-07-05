@@ -16,14 +16,14 @@ https://user-images.githubusercontent.com/54880505/160278970-f3722596-674d-40b8-
 
 
 - Multi-lingual Whatsapp-Bot.
-[![N|Solid](https://pulkits.ml/images/nandi_chat.png)](https://pulkits.ml/images/nandi_chat.png)
+[![N|Solid](https://pulkit0795.github.io/images/nandi_chat.png)](https://pulkit0795.github.io/images/nandi_chat.png)
 - Realtime Veterinary hotline for Animal Farmers and Pet Owners using GPS to connect nearest veterinarians and Para- Veterinarians.
 - Simultaneous disease reporting by data collection from veterinary hotline and sorting by backend veterinary team.
 
-[![N|Solid](https://pulkits.ml/images/nandi_chat1.png)](https://pulkits.ml/images/nandi_chat1.png)
+[![N|Solid](https://pulkit0795.github.io/images/nandi_chat1.png)](https://pulkit0795.github.io/images/nandi_chat1.png)
 - On the go soluion for Animal abuse.
 
-[![N|Solid](https://pulkits.ml/images/nandi_chat3.png)](https://pulkits.ml/images/nandi_chat3.png)
+[![N|Solid](https://pulkit0795.github.io/images/nandi_chat3.png)](https://pulkit0795.github.io/images/nandi_chat3.png)
 
 
 ## Code Flow:
